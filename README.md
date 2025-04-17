@@ -1,3 +1,13 @@
+<!--
+
+to add / update the submodules:
+
+git submodule add https://github.com/shadowdara/Webenv-Creator Webenv-Creator
+
+git submodule update --remote
+
+-->
+
 # My-Toolbox
 
 Here are all my Tool programms and scripts listed which are
