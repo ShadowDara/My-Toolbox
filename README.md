@@ -2,7 +2,7 @@
 
 to add / update the submodules:
 
-git submodule add https://github.com/shadowdara/Webenv-Creator Webenv-Creator
+git submodule add https://github.com/shadowdara/delete-ALL-files delete-ALL-files
 
 git submodule update --remote
 
@@ -31,6 +31,7 @@ very usefull.
 ### Python
 - [local-HTTP-server](https://github.com/weuritz8u/local-HTTP-server)
 - [3ma-to-obj-converter-python](https://github.com/weuritz8u/3ma-to-obj-converter-python)
+- [delete-ALL-files](https://github.com/shadowdara/delete-ALL-files)
 
 <!--
 - [](https://github.com/shadowdara/)

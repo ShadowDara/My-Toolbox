@@ -25,3 +25,6 @@
 [submodule "Webenv-Creator"]
 	path = Webenv-Creator
 	url = https://github.com/shadowdara/Webenv-Creator
+[submodule "delete-ALL-files"]
+	path = delete-ALL-files
+	url = https://github.com/shadowdara/delete-ALL-files
