@@ -1,0 +1,24 @@
+[submodule "local-HTTP-server"]
+	path = local-HTTP-server
+	url = https://github.com/weuritz8u/local-HTTP-server
+[submodule "run-without-admin-rights"]
+	path = run-without-admin-rights
+	url = https://github.com/weuritz8u/run-without-admin-rights
+[submodule "3ma-to-obj-converter-python"]
+	path = 3ma-to-obj-converter-python
+	url = https://github.com/weuritz8u/3ma-to-obj-converter-python
+[submodule "read-wlan-password"]
+	path = read-wlan-password
+	url = https://github.com/weuritz8u/read-wlan-password
+[submodule "create-envirment-variables"]
+	path = create-envirment-variables
+	url = https://github.com/weuritz8u/create-envirment-variables
+[submodule "show-envirment-vars"]
+	path = show-envirment-vars
+	url = https://github.com/weuritz8u/show-envirment-vars
+[submodule "change-file-extension"]
+	path = change-file-extension
+	url = https://github.com/weuritz8u/change-file-extension
+[submodule "change-file-edittime"]
+	path = change-file-edittime
+	url = https://github.com/weuritz8u/change-file-edittime
