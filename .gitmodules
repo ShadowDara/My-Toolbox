@@ -25,3 +25,6 @@
 [submodule "Webenv-Creator"]
 	path = Webenv-Creator
 	url = https://github.com/shadowdara/Webenv-Creator
+[submodule "Daras-PyToolBox"]
+	path = Daras-PyToolBox
+	url = https://github.com/shadowdara/Daras-PyToolBox
