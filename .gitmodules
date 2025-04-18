@@ -28,3 +28,6 @@
 [submodule "Daras-PyToolBox"]
 	path = Daras-PyToolBox
 	url = https://github.com/shadowdara/Daras-PyToolBox
+[submodule "Daras-hotkey-listener"]
+	path = Daras-hotkey-listener
+	url = https://github.com/shadowdara/Daras-hotkey-listener
